@@ -1,0 +1,2 @@
+# AndroidProgramming-LocalizationAndDailyPath
+Android programming assignment2
